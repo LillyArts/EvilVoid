@@ -1,2 +1,0 @@
-# EvilVoid
-A bot.
