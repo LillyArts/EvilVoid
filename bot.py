@@ -2,6 +2,8 @@ import discord
 from discord.ext import commands
 import asyncio
 import random
+import os
+import requests
 from discord import Game
 
 client = commands.Bot(command_prefix='/')
